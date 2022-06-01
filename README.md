@@ -1,6 +1,6 @@
 # counter_cubit_lib_demo
 
-A new Flutter project.
+A Flutter counter with bloC cubit demo project.
 
 ## Getting Started
 
